@@ -28,8 +28,8 @@ Users should be able to:
 ### Links
 
 - [Live Site URL](https://chef-squad.web.app/)
-- [Github Client Link](https://github.com/zillur-rgb/flexytrips-client)
-- [Github Server Link](https://github.com/zillur-rgb/flexytrips-server)
+- [Github Client Link](https://github.com/safatsaat2/chef-squad-client)
+- [Github Server Link](https://github.com/safatsaat2/chef-squad-server)
 
 ### Built with
 
